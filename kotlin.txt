@@ -1,2 +1,2 @@
-Nombre: Joannes
-Correo: dev.joannesjmr@gmail.com
+nombre: Joannes Martinez
+Correo: joannesjmr@gmail.com
